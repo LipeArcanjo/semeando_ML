@@ -4,6 +4,11 @@ Este projeto utiliza **machine learning** para prever a dificuldade de usuários
 
 ---
 
+## LINK DO VÍDEO NO YOUTUBE:
+[Assista no YouTube](https://youtu.be/4aGv_R6Ecao) 🚀😄
+
+---
+
 ## Requisitos
 
 ### Pré-requisitos para execução:
